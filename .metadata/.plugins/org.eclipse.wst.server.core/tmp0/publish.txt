@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Tue Dec 17 09:24:21 KST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\fornet\\.m2\\repository\\org\\springframework\\spring-web\\4.3.3.RELEASE\\spring-web-4.3.3.RELEASE.jar=D\:\\sts-bundle\\pivotal-tc-server-developer-3.2.0.RELEASE\\base-instance\\wtpwebapps\\ex01\\WEB-INF\\lib\\spring-web-4.3.3.RELEASE.jar
+org.eclipse.jst.jee.server\:boot_ex00=D\:\\sts-bundle\\pivotal-tc-server-developer-3.2.0.RELEASE\\base-instance\\wtpwebapps\\boot_ex00
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\fornet\\.m2\\repository\\org\\springframework\\spring-web\\5.2.1.RELEASE\\spring-web-5.2.1.RELEASE.jar=D\:\\sts-bundle\\pivotal-tc-server-developer-3.2.0.RELEASE\\base-instance\\wtpwebapps\\boot_ex00\\WEB-INF\\lib\\spring-web-5.2.1.RELEASE.jar
+org.eclipse.jst.jee.server\:ex01=D\:\\sts-bundle\\pivotal-tc-server-developer-3.2.0.RELEASE\\base-instance\\wtpwebapps\\ex01
+org.eclipse.jst.jee.server\:ex00=D\:\\sts-bundle\\pivotal-tc-server-developer-3.2.0.RELEASE\\base-instance\\wtpwebapps\\ex00
